@@ -451,6 +451,3 @@ def predict (input_text):
     print(true_predictions[0])
 
     return output_text, true_predictions[0]
-
-
-predict("四年，拔之，斬首六萬，涉河，城武遂。魏太子來朝。王有力好戲，力士任鄙、烏獲、孟說皆至大官，王與孟說舉鼎絕臏。八月，武王死，族孟說。鼎者，龍文赤鼎也。或曰：武王享國四年，葬永陵。武王取魏女為后，無子，立異母弟瑕為昭襄王。")
