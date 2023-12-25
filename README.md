@@ -31,3 +31,4 @@ R11922101 Chia-Hung Huang
   ```bash
   streamlit run app.py
   ```
+- If you want to generate datasets with `generate_dataset.py`, please create a `.env` file. You can take `.env-default` as a template.
