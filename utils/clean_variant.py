@@ -1,5 +1,5 @@
 import pandas as pd
-variant_csv = '/Users/orangehuang/Desktop/adl-final/data/variant.csv'
+variant_csv = '../data/variant.csv'
 
 def clean(text):
   df = pd.read_csv(variant_csv)
