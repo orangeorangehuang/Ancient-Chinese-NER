@@ -3,7 +3,7 @@ import streamlit as st
 
 class UI:
     def show(self):
-        st.title("Ancient Chinese NER App")
+        st.title("Ancient Chinese NER")
         st.subheader('An NER tool for ancient Chinese in traditional Chinese characters.', divider='rainbow')
         st.write("Named entities supported: personal names, locations, books, official titles, dynasties.")
         st.subheader("The Input Text")
