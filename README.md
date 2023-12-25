@@ -19,6 +19,10 @@ R11922101 Chia-Hung Huang
 - `app.py`: UI.
 
 ### How to Run the code
+- Install dependencies
+  ```bash
+  pip install -r requirements.txt
+  ```
 - Download the Model
   ```bash
   bash download.sh
